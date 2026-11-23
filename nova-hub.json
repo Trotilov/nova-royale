@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "project": "royale",
+  "title": "Clash Helper",
+  "version": "0.1.0",
+  "status": "available",
+  "package_name": "dev.novaroyale.tracker",
+  "repository_url": "https://github.com/Trotilov/nova-royale",
+  "build_url": "https://github.com/Trotilov/nova-royale/actions",
+  "changelog": [
+    "Плавающая кнопка NR и панель поверх Null's Royale",
+    "Ручное отслеживание восьми карт соперника",
+    "Оценка эликсира и ручные корректировки",
+    "Поддержка собственных карт и локальное сохранение",
+    "Автоматическое распознавание карт пока не реализовано"
+  ]
+}
